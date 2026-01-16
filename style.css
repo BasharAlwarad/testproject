@@ -5,3 +5,10 @@
 /* general css end */
 @import url(./style/about.css);
 @import url(./style/contact.css);
+
+/* index style start */
+nav {
+  background: black;
+  color: white;
+}
+/* index style end */

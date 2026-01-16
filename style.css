@@ -1,0 +1,7 @@
+/* general css start */
+* {
+  box-sizing: border-box;
+}
+/* general css end */
+@import url(./style/about.css);
+@import url(./style/contact.css);
